@@ -14,4 +14,4 @@ Use Case: Written very well. No issues there, although I do have more suggestion
 
 Otherwise, your Use Case does well in explaining everything you mentioned above. Great job with this.
 
-## Overall, great job. Some little issues here and there but nothing major. Watch the grammar, and keep up the good work for the next milestone.
+## Overall, great job. Some little issues here and there but nothing major. Watch the grammar, and keep up the good work for the next milestone. You've passed in tier 3.
