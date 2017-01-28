@@ -1,5 +1,7 @@
 <!DOCTYPE>
+<html lang="en">
 <html>
+	<meta charset="UTF-8">
 	<head>
 		<title>Zak Abad Resume site</title>
 	</head>
