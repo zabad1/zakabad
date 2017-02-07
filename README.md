@@ -15,3 +15,22 @@ Use Case: Written very well. No issues there, although I do have more suggestion
 Otherwise, your Use Case does well in explaining everything you mentioned above. Great job with this.
 
 ## Overall, great job. Some little issues here and there but nothing major. Watch the grammar, and keep up the good work for the next milestone. You've passed in tier 3.
+
+## Milestone 2a Feedback
+Your directory structure is perfect, but your HTML has one noticeable issue. Your meta charset tag needs to be within the head. Yours is above it. Make sure to fix this.
+
+Otherwise, your HTML is good.
+
+Considering I've seen the site you're basing this off of, I like your design. Make sure to think back to what I suggested. Make sure it's still visually appealing. 
+
+What's your Easter Egg going to do? Have you thought about that yet?
+
+Your mobile layout may not work. I would try to stretch the content across the full page so it's not too small. That would of course affect the way your background image looks. I like your desktop design, but I would try to rethink your mobile design completely. You could still have the same basic design, but maybe add a filter over the entire background so it's very dark, and your text is still easily readable over the top of it. 
+
+I like your social media icons at the bottom. Make sure these fit with the design and don't look like they're just floating there. For the Social Media icons, have a look Font Awesome. Very easy to use, simple and straightforward. http://fontawesome.io/
+
+
+
+Overall, you did a good job of replicating the site you showed me earlier. Try to make it a little more entertaining. Include some modals, or cool design changes so it's atleast a little different. 
+
+### You've passed Milestone 2a in Tier III. Good job.
