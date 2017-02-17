@@ -1,8 +1,8 @@
 <!DOCTYPE>
 <html lang="en">
 <html>
-	<meta charset="UTF-8">
 	<head>
+		<meta charset="UTF-8">
 		<title>Zak Abad Resume site</title>
 	</head>
 		<body>

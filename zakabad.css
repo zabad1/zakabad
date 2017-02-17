@@ -1,0 +1,7 @@
+body {
+	background: url(public_html/documentation/images/zakportraitbwpwp.jpg) no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
