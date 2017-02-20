@@ -1,7 +1,12 @@
+body,html{
+	min-height: 100%;
+	min-width: 100%;
+}
 body {
-	background: url(public_html/documentation/images/zakportraitbwpwp.jpg) no-repeat fixed;
+	background-image: url(public_html/documentation/images/zakportraitbwpwp.jpg);
+	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
+	background-size:  cover;
 }

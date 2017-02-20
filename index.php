@@ -17,6 +17,6 @@
 			<title>Zak Abad </title>
 		</head>
 		<body>
-
+			<img src="zakabad.css">
 		</body>
 	</html>
