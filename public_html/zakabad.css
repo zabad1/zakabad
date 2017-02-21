@@ -3,10 +3,13 @@ body,html{
 	min-width: 100%;
 }
 body {
-	background-image: url(public_html/documentation/images/zakportraitbwpwp.jpg);
+	background: url(documentation/images/zakportraitbwpwp.jpg);
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size:  cover;
+	 background-position: center 0;
+
+
 }
