@@ -16,6 +16,20 @@
 
 			<title>Zak Abad </title>
 		</head>
+		<h2></h2>
 		<body>
+			<ul>
+				<li><a href="index.php">home</a></li>
+				<li><a href="about-me.php">about me</a></li>
+				<li><a href="contact-me.php">contact form</a></li>
+			</ul>
+
+			<!--links to twiiter, linkin, & github-->
+
+			<ul>
+				<li><a>twitter</a></li>
+				<li><a>linkin</a></li>
+				<li><a>github</a></li>
+			</ul>
 		</body>
 	</html>
