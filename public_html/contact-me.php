@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title></title>
+		<?php require_once("php/mail-config.php");?>
 	</head>
 	<body>
 		<!--Begin Contact Form-->
@@ -45,7 +46,7 @@
 			</div>
 
 			<!-- reCAPTCHA -->
-			<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+			<div class="g-recaptcha" data-sitekey="<?php echo $siteKey;?>"></div>
 
 			<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 			<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
