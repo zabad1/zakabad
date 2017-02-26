@@ -1,15 +1,6 @@
-body,html{
-	min-height: 100%;
-	min-width: 100%;
-}
-body {
-	background: url(documentation/images/zakportraitbwpwp.jpg);
-	background-repeat: no-repeat;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size:  cover;
-	 background-position: center 0;
 
 
+.homepagepic{
+	width: 100%;
 }
+

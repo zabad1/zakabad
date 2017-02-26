@@ -23,7 +23,9 @@
 				<li><a href="about-me.php">about me</a></li>
 				<li><a href="contact-me.php">contact form</a></li>
 			</ul>
-
+		<div class="col-sm-6">
+			<img class="homepagepic" src="documentation/images/zakportraitbwpwp.jpg">
+		</div>
 			<!--links to twiiter, linkin, & github-->
 
 			<ul>
