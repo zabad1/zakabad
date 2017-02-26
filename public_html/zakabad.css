@@ -1,9 +1,11 @@
-
-
 .homepagepic{
 	width: 100%;
 }
 
-img {
-	padding: 50px;
+.center-block{
+	display: block;
+	margin-left: auto;
+	margin-right: ;
 }
+
+

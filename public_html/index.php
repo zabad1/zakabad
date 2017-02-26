@@ -26,6 +26,7 @@
 		<div class="col-sm-6">
 			<img class="homepagepic" src="documentation/images/zakportraitbwpwp.jpg">
 		</div>
+			<div class="center-block"> </div>
 			<!--links to twiiter, linkin, & github-->
 
 			<ul>
