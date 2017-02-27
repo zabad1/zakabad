@@ -49,7 +49,7 @@
 				<div class="container">
 
 					<h3 class="margin">Who Am I?</h3>
-					<p>I am a full stack web developer. I am advancing my web development career with a proficient background in both front and back end coding. I am very excited to learn and become even more experienced in a career category that lets me create exactly what I see in my mind. If you want to know more about my web development experience, please click the dropdowns below.
+					<p>My main focus is front end web developer. Though I do enjoy expanding my knowledge in all phases of programming. When I tackle anything that requires a lot of learning, I don't shy away from learning everything I can, so it can make me more reliable in my self. I'm
 					</p>
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
@@ -62,21 +62,22 @@
 							</div>
 							<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 								<div class="panel-body">
-									I've always loved computers. Since I was 6, I was playing around on Photoshop, MS Paint, and tons of different games. In high school, I attended a school that used technology based group work as their main teaching point. While attending nexGen Academy, I became even more experienced with Photoshop, as well as becoming proficient in many other Adobe programs, such as Flash and After Effects, and my personal favorite, Adobe Premier Pro. Going to a technology high school also gave me the benefit of typing skills, and I can now type up to 100 words per minute based on typing tests. After graduation, I attended UNM for a short time before landing a part-time job Q-mulus IT. My main work while there was to help build a Sharepoint portal for a therapeutic company for autism. I also developed many workflows using Sharepoint which, while it is simple compared to that of PHP and JavaScript, gave me a background in coding before I even entered the next chapter of my coding career. That next chapter came from the CNM STEMulus Center, where I attended and graduated from the Deep Dive Coding Bootcamp. At the Bootcamp, I learned and worked with coding platforms PHP, JavaScript, HTML5, CSS, Bootstrap, and others. I am very excited to advance in my career, and learn more languages, while at the same time becoming more proficient with the languages I already have experience using.
+									--TODO Fill in info
 								</div>
 							</div>
 						</div>
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingTwo">
 								<h4 class="panel-title">
-									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" 										href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 										My Goals
 									</a>
 								</h4>
 							</div>
-
+							<div class="panel-body">
+								--TODO fill in info
 							<div class="form-container ng-scope">
-								<form id="contact-form" action="php/mailer/mailer.php" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
+								<form id="contact-form" action="php/mailer/mailer.php" method="post" novalidate="novalidate" 								class="ng-pristine ng-valid">
 									<h2 id="contact-heading">Contact Me</h2>
 									<div class="form-group">
 										<div class="input-group">
@@ -107,7 +108,7 @@
 											<div class="input-group-addon">
 												<i class="fa fa-comment" aria-hidden="true"></i>
 											</div>
-											<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
+											<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message 											(2000 characters max)"></textarea>
 										</div>
 									</div>
 
@@ -126,7 +127,6 @@
 										<div id="output-area"></div>
 									</div>
 								</div>
-
 							</div>
 		</body>
 	</html>
