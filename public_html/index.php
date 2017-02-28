@@ -20,8 +20,6 @@
 		</head>
 
 		<body>
-		<!--<div class="col-sm-6"></div>-->
-
 			<nav class="navbar navbar-inverse">
 				<!-- logo and mobile toggle button get grouped together for better mobile display -->
 				<div class="navbar-header">
@@ -30,15 +28,15 @@
 						<span class="sr-only">main menu</span>
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
-					<a class="navbar-brand" href="#">Zak Abad</a>
+					<span class="navbar-brand">Zak Abad</span>
 				</div>
 
 				<!-- here are your main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="#"><img src="documentation/images/twitterLogo.png" class="socialicon"></a></li>
-						<li><a href="#"><img src="documentation/images/linkedinLogo.png" class="socialicon"></a></li>
-						<li><a href="#"><img src="documentation/images/gitHubLogo.png" class="socialicon"></a></li>
+						<li><a href="https://twitter.com/ZakAbad"><img src="documentation/images/twitterLogo.png" class="socialicon"></a></li>
+						<li><a href="https://www.linkedin.com/in/zacaria-abad-04b553108/"><img src="documentation/images/linkedinLogo.png" class="socialicon"></a></li>
+						<li><a href="https://github.com/zabad1"><img src="documentation/images/gitHubLogo.png" class="socialicon"></a></li>
 					</ul>
 				</div>
 			</nav>
@@ -52,33 +50,9 @@
 					<h3 class="margin">Who Am I?</h3>
 					<p>My main focus is front end web developer. Though I do enjoy expanding my knowledge in all phases of programming. When I tackle anything that requires a lot of learning, I don't shy away from learning everything I can, so it can make me more reliable in my self. a
 					</p>
-					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-						<div class="panel panel-default">
-							<div class="panel-heading" role="tab" id="headingOne">
-								<h4 class="panel-title">
-									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-										My Experience
-									</a>
-								</h4>
-							</div>
-							<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-								<div class="panel-body">
-									--TODO Fill in info
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading" role="tab" id="headingTwo">
-								<h4 class="panel-title">
-									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" 										href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-										My Goals
-									</a>
-								</h4>
-							</div>
-							<div class="panel-body">
-								--TODO fill in info
+					<!--Contact me starts-->
 							<div class="form-container ng-scope">
-								<form id="contact-form" action="php/mailer/mailer.php" method="post" novalidate="novalidate" 								class="ng-pristine ng-valid">
+								<form id="contact-form" action="php/mailer/mailer.php" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
 									<h2 id="contact-heading">Contact Me</h2>
 									<div class="form-group">
 										<div class="input-group">
@@ -109,12 +83,12 @@
 											<div class="input-group-addon">
 												<i class="fa fa-comment" aria-hidden="true"></i>
 											</div>
-											<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message 											(2000 characters max)"></textarea>
+											<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message(2000 characters max)"></textarea>
 										</div>
 									</div>
 
 									<!-- reCAPTCHA -->
-									<div class="g-recaptcha" id="rct" data-sitekey="">
+									<div class="g-recaptcha" id="rct" data-sitekey="6LfabxYUAAAAAJ8PXG5WaBhqaQGcSaJHNmJj1CJ3">
 									</div>
 									<div class="btns">
 										<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
