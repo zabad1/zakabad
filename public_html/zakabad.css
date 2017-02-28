@@ -68,6 +68,10 @@ img {
 	font-family: 'Cinzel', serif;
 }
 
+#contact-heading{
+	font-family: 'Cinzel', serif;
+}
+
 .colorBlock1{
 	background-color: rgba(114,114,114,0.97);
 }
@@ -103,7 +107,7 @@ img {
 
 .form-container{
 	width: 60%;
-	margin: 0 auto;
+	margin: 0 auto 70px;
 }
 
 .btns{
@@ -128,4 +132,11 @@ img {
 .btn-warning:hover{
 	background-color: rgba(25,25,25,0.97);
 	border: rgba(25,25,25,0.97);
+}
+
+#bottomBoy{
+	height: 50px;
+	background-color: #222;
+	margin: 0;
+	border-radius: 0;
 }

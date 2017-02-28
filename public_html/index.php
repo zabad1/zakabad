@@ -63,7 +63,7 @@
 					<!--Contact me starts-->
 							<div class="form-container ng-scope">
 								<form id="contact-form" action="php/mailer/mailer.php" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
-									<h2 id="contact-heading">Contact Me</h2>
+									<h3 id="contact-heading">Contact Me</h3>
 									<div class="form-group">
 										<div class="input-group">
 											<div class="input-group-addon">
@@ -116,6 +116,6 @@
 				</div>
 			</div>
 
-			<footer class="navbar navbar-fixed-bottom"></footer>
+			<footer class="navbar" id="bottomBoy"></footer>
 		</body>
 	</html>
