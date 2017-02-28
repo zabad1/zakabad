@@ -1,12 +1,43 @@
+body{
+	width: 100%;
+}
+
 img {
 	display: block;
 	margin: 0 auto;
 	width: 50%;
 }
 
+.navbar-right {
+	margin-right: 10px;
+}
+
 .socialicon{
 	height: 30px;
 	width: 30px;
+}
+
+.socialicon:hover{
+	height: 33px;
+	width: 33px;
+}
+
+.increaseSizeLink {
+	height: 30px;
+	width: 30px;
+	bottom: 5px;
+}
+
+#twitter{
+	margin-right: 10px;
+}
+
+#linkin{
+	margin: 0 15px 0 10px;
+}
+
+#github{
+	margin: 0 10px;
 }
 
 .navbar-brand{
@@ -15,8 +46,21 @@ img {
 	font-size: 2em;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 767px) {
 	.navbar-brand{
-		top:.2em;
+		top: .1em;
 	}
+}
+
+.navbar-brand:hover{
+	color: #9d9d9d!important;
+}
+
+.colorBlock{
+	background-color: rgba(114,114,114,0.97);
+}
+
+.textBlock{
+	width: 60%;
+	margin: 0 auto;
 }

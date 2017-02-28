@@ -34,9 +34,9 @@
 				<!-- here are your main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="https://twitter.com/ZakAbad"><img src="documentation/images/twitterLogo.png" class="socialicon"></a></li>
-						<li><a href="https://www.linkedin.com/in/zacaria-abad-04b553108/"><img src="documentation/images/linkedinLogo.png" class="socialicon"></a></li>
-						<li><a href="https://github.com/zabad1"><img src="documentation/images/gitHubLogo.png" class="socialicon"></a></li>
+						<li><a href="https://twitter.com/ZakAbad" class="increaseSizeLink" id="twitter"><img src="documentation/images/twitterLogo.png" class="socialicon"></a></li>
+						<li><a href="https://www.linkedin.com/in/zacaria-abad-04b553108/" class="increaseSizeLink" id="linkin"><img src="documentation/images/linkedinLogo.png" class="socialicon"></a></li>
+						<li><a href="https://github.com/zabad1" class="increaseSizeLink" id="github"><img src="documentation/images/gitHubLogo.png" class="socialicon"></a></li>
 					</ul>
 				</div>
 			</nav>
@@ -44,12 +44,14 @@
 			<!--homepage picture-->
 			<img src="documentation/images/zakportraitbwpwp.jpg">
 
+			<!--Keeps site aligned-->
 			<div class="bg-2 text-center">
-				<div class="container">
+				<div class="container-fluid">
 
 					<h3 class="margin">Who Am I?</h3>
-					<p>My main focus is front end web developer. Though I do enjoy expanding my knowledge in all phases of programming. When I tackle anything that requires a lot of learning, I don't shy away from learning everything I can, so it can make me more reliable in my self. a
-					</p>
+					<div class="colorBlock"><p class="textBlock">My main focus is front end web developer. Though I do enjoy expanding my knowledge in all phases of programming. When I tackle anything that requires a lot of learning, I don't shy away from learning everything I can, so it can make me more reliable in my self.
+						</p></div>
+
 					<!--Contact me starts-->
 							<div class="form-container ng-scope">
 								<form id="contact-form" action="php/mailer/mailer.php" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
