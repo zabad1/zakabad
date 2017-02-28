@@ -49,8 +49,14 @@
 				<div class="container-fluid">
 
 					<h3 class="margin">Who Am I?</h3>
-					<div class="colorBlock"><p class="textBlock">My main focus is front end web developer. Though I do enjoy expanding my knowledge in all phases of programming. When I tackle anything that requires a lot of learning, I don't shy away from learning everything I can, so it can make me more reliable in my self.
+					<div class="colorBlock1"><p class="textBlock1">My main focus is front end web developer. Though I do enjoy expanding my knowledge in all phases of programming. When I tackle anything that requires a lot of learning, I don't shy away from learning everything I can, so it can make me more reliable in my self.
 						</p></div>
+
+					<h3 class="margin">Experience</h3>
+					<div class="colorBlock2"><p class="textBlock2">fjkflkjawoigfejaokdsljflkjfdklsajfk ljdaslkjflkjadsgjda;jladsjfjdasgkdfls jgldsjaglk;jasdgkljl kadgsjlkgjdsla 	kjgalksljkfdsljkfhsdkja hfadsfkdskljhfkashjkd fsaklfdlkasf;ldsfj;ljfd;jfjfkldsak f;ljsad;klfjk;l sadjf;sdl ;fkjsdl fjk;ldsjkf;dsa ;ffd;klsjfkl;sjalfj</p></div>
+
+					<h3 class="margin">Life</h3>
+					<div class="colorBlock3"><p class="textBlock3">fjkflkjawoigfejaokdsljflkjfdklsajfk ljdaslkjflkjadsgjda;jladsjfjdasgkdfls jgldsjaglk;jasdgkljl kadgsjlkgjdsla 	kjgalksljkfdsljkfhsdkja hfadsfkdskljhfkashjkd fsaklfdlkasf;ldsfj;ljfd;jfjfkldsak f;ljsad;klfjk;l sadjf;sdl ;fkjsdl fjk;ldsjkf;dsa ;ffd;klsjfkl;sjalfj</p></div>
 
 					<!--Contact me starts-->
 							<div class="form-container ng-scope">
@@ -105,5 +111,7 @@
 									</div>
 								</div>
 							</div>
+				</div>
+			</div>
 		</body>
 	</html>
