@@ -1,3 +1,4 @@
+/*Home page container for color on sides*/
 body{
 	width: 100%;
 }
@@ -10,16 +11,19 @@ body{
 	border-radius: 0;
 }
 
+/*Home page picture*/
 img {
 	display: block;
 	margin: 0 auto;
 	width: 50%;
 }
 
+/*Nav bar icons placement*/
 .navbar-right {
 	margin-right: 10px;
 }
 
+/*Link icons*/
 .socialicon{
 	height: 30px;
 	width: 30px;
@@ -48,22 +52,26 @@ img {
 	margin: 0 10px;
 }
 
+/*Name on Nav bar*/
 .navbar-brand{
 	position: absolute;
 	font-family: 'Cinzel', serif;
 	font-size: 2em;
 }
 
+/*Media quiers for mobile responsiveness*/
 @media (max-width: 767px) {
 	.navbar-brand{
 		top: .1em;
 	}
 }
 
+/*No Response for hover on name for nav bar*/
 .navbar-brand:hover{
 	color: #9d9d9d!important;
 }
 
+/*Font for Subject headings*/
 .margin{
 	font-family: 'Cinzel', serif;
 }
@@ -72,6 +80,13 @@ img {
 	font-family: 'Cinzel', serif;
 }
 
+/*Font style for paragraphs*/
+p{
+	font-family: 'Rokkitt', serif;
+	font-size: large;
+}
+
+/*Color blocks with text inside about me details*/
 .colorBlock1{
 	background-color: rgba(114,114,114,0.97);
 }
@@ -81,10 +96,11 @@ img {
 	margin: 0 auto;
 	color: rgba(212,212,212,0.97);
 	text-align: justify;
+	font-family: ;
 }
 
 .colorBlock2{
-	background-color: rgba(114,114,114,0.97);
+	background-color: rgba(85,85,102,0.61);
 }
 
 .textBlock2{
@@ -95,7 +111,7 @@ img {
 }
 
 .colorBlock3{
-	background-color: rgba(114,114,114,0.97);
+	background-color: rgba(21,21,21,0.61);
 }
 
 .textBlock3{
@@ -105,11 +121,13 @@ img {
 	text-align: justify;
 }
 
+/*Form contact me size*/
 .form-container{
 	width: 60%;
 	margin: 0 auto 70px;
 }
 
+/*Buttons for contact me styles*/
 .btns{
 	float: left;
 }
@@ -134,9 +152,10 @@ img {
 	border: rgba(25,25,25,0.97);
 }
 
+/*Footer detail & style*/
 #bottomBoy{
 	height: 50px;
-	background-color: #222;
+	background-color: #222222;
 	margin: 0;
 	border-radius: 0;
 }
