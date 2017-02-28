@@ -14,9 +14,11 @@
 
 			<link rel="stylesheet" href="zakabad.css">
 
+			<link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
+
 			<title>Zak Abad </title>
 		</head>
-		<h2></h2>
+
 		<body>
 		<!--<div class="col-sm-6"></div>-->
 
@@ -34,10 +36,9 @@
 				<!-- here are your main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">Link1</a></li>
-						<li><a href="#">Link2</a></li>
-						<li><a href="#">Link3</a></li>
+						<li><a href="#"><img src="documentation/images/twitterLogo.png" class="socialicon"></a></li>
+						<li><a href="#"><img src="documentation/images/linkedinLogo.png" class="socialicon"></a></li>
+						<li><a href="#"><img src="documentation/images/gitHubLogo.png" class="socialicon"></a></li>
 					</ul>
 				</div>
 			</nav>

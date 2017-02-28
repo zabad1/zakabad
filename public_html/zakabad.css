@@ -3,3 +3,17 @@ img {
 	margin: 0 auto;
 	width: 50%;
 }
+
+.socialicon{
+	height: 30px;
+	width: 30px;
+}
+
+.navbar-brand{
+	font-family: 'Cinzel', serif;
+	font-size: 2em;
+}
+
+.navbar-brand:hover{
+	color: #9d9d9d;
+}
