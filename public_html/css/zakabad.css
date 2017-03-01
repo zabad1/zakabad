@@ -16,6 +16,7 @@ img {
 	display: block;
 	margin: 0 auto;
 	width: 50%;
+	box-shadow: 7px 5px 10px black;
 }
 
 /*Nav bar icons placement*/
@@ -66,6 +67,12 @@ img {
 	}
 }
 
+@media screen and (device-aspect-ratio: 16/9), screen and (device-aspect-ratio: 16/10) {
+}
+
+@media handheld {
+	
+}
 /*No Response for hover on name for nav bar*/
 .navbar-brand:hover{
 	color: #9d9d9d!important;
@@ -96,17 +103,16 @@ p{
 	margin: 0 auto;
 	color: rgba(212,212,212,0.97);
 	text-align: justify;
-	font-family: ;
 }
 
 .colorBlock2{
-	background-color: rgba(85,85,102,0.61);
+	background-color: #989b9f;
 }
 
 .textBlock2{
 	width: 60%;
 	margin: 0 auto;
-	color: rgba(212,212,212,0.97);
+	color: #424242;
 	text-align:justify;
 }
 
@@ -117,7 +123,7 @@ p{
 .textBlock3{
 	width: 60%;
 	margin: 0 auto;
-	color: ;
+	color: #131313;
 	text-align: justify;
 }
 
