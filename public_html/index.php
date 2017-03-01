@@ -2,22 +2,21 @@
 <html lang="en">
 		<head>
 			<meta charset="UTF-8">
-*//TODOO
-			Moblie Responsive & fix footer for mobile/
+<!--TODO: Moblie Responsive & fix footer for mobile/
 			Multi-Browser response/
 			About me/
 			Recaptcha|Send email/
-			Add Favicon|create/
-			Change stripe to blocks?/
+			Change stripe to blocks?/-->
+
 			<!--Bootstrap nav bar-->
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
 			<script
 				src="https://code.jquery.com/jquery-3.1.1.min.js"
 				integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
 				crossorigin="anonymous"></script>
-
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+			<script src="js/validator.js"></script>
 
 			<!--Recaptcha api-->
 			<script src='https://www.google.com/recaptcha/api.js'></script>
@@ -30,10 +29,10 @@
 			<link href="https://fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet">
 
 			<!--Favicon image icon-->
-			<link rel="apple-touch-icon" sizes="180x180" href="documentation/images/celluloidFilmFavicon4.png">
-			<link rel="icon" type="image/png" href="documentation/images/celluloidFilmFavicon4.png" sizes="32x32">
-			<link rel="icon" type="image/png" href="documentation/images/celluloidFilmFavicon4.png" sizes="16x16">
-			<link rel="mask-icon" href="documentation/images/celluloidFilmFavicon4.png">
+			<link rel="apple-touch-icon" sizes="180x180" href="documentation/images/zFavi.png">
+			<link rel="icon" type="image/png" href="documentation/images/zFavi.png" sizes="32x32">
+			<link rel="icon" type="image/png" href="documentation/images/zFavi.png" sizes="16x16">
+			<link rel="mask-icon" href="documentation/images/zFavi.png">
 
 			<title>Zak Abad</title>
 		</head>
@@ -107,7 +106,7 @@
 
 					<!--Contact me form starts-->
 							<div class="form-container ng-scope">
-								<form id="contact-form" action="php/mailer/mailer.php" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
+								<form id="contact-form" action="php/mailer.php" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
 									<h3 id="contact-heading">Contact Me</h3>
 									<div class="form-group">
 										<div class="input-group">
