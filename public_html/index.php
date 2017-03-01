@@ -7,7 +7,6 @@
 			Multi-Browser response/
 			About me/
 			Recaptcha|Send email/
-			separate tab for links in nav/
 			Add Favicon|create/
 			Change stripe to blocks?/
 			<!--Bootstrap nav bar-->
@@ -34,7 +33,6 @@
 			<link rel="apple-touch-icon" sizes="180x180" href="documentation/images/celluloidFilmFavicon4.png">
 			<link rel="icon" type="image/png" href="documentation/images/celluloidFilmFavicon4.png" sizes="32x32">
 			<link rel="icon" type="image/png" href="documentation/images/celluloidFilmFavicon4.png" sizes="16x16">
-			<link rel="manifest" href="documentation/images/celluloidFilmFavicon4.png">
 			<link rel="mask-icon" href="documentation/images/celluloidFilmFavicon4.png">
 
 			<title>Zak Abad</title>
@@ -56,9 +54,9 @@
 				<!-- here are your main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="https://twitter.com/ZakAbad" class="increaseSizeLink" id="twitter"><img src="documentation/images/twitterLogo2.png" class="socialicon"></a></li>
-						<li><a href="https://www.linkedin.com/in/zacaria-abad-04b553108/" class="increaseSizeLink" id="linkin"><img src="documentation/images/linkedinLogo2.png" class="socialicon"></a></li>
-						<li><a href="https://github.com/zabad1" class="increaseSizeLink" id="github"><img src="documentation/images/gitHubLogo2.png" class="socialicon"></a></li>
+						<li><a href="https://twitter.com/ZakAbad" target="_blank" class="increaseSizeLink" id="twitter"><img src="documentation/images/twitterLogo2.png" class="socialicon"></a></li>
+						<li><a href="https://www.linkedin.com/in/zacaria-abad-04b553108/" target="_blank" class="increaseSizeLink" id="linkin"><img src="documentation/images/linkedinLogo2.png" class="socialicon"></a></li>
+						<li><a href="https://github.com/zabad1" target="_blank" class="increaseSizeLink" id="github"><img src="documentation/images/gitHubLogo2.png" class="socialicon"></a></li>
 					</ul>
 				</div>
 			</nav>
