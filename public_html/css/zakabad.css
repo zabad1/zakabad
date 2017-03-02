@@ -19,6 +19,14 @@ img {
 	box-shadow: 7px 5px 10px black;
 }
 
+@media screen and (max-width: 768px) {
+	img{
+		width: 95%;
+		margin: 0 auto;
+		box-shadow: 7px 5px 10px black;
+	}
+}
+
 /*Nav bar icons placement*/
 .navbar-right {
 	margin-right: 10px;
