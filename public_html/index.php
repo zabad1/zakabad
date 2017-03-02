@@ -170,6 +170,7 @@
 			</div>
 
 <!--Footer starts here-->
-			<footer class="navbar" id="bottomBoy"><h6>&copy;Zak Abad</h6></footer>
+			<footer class="navbar" id="bottomBoy"><h6
+				>&copy;Zak Abad</h6></footer>
 		</body>
 	</html>
