@@ -114,10 +114,13 @@ p{
 
 .colorBlock2{
 	background-color: #989b9f;
+	width: 58%;
+	margin: 0 auto;
+	box-shadow: 7px 5px 10px black;
 }
 
 .textBlock2{
-	width: 60%;
+	width: 90%;
 	margin: 0 auto;
 	color: #424242;
 	text-align:justify;
@@ -126,10 +129,13 @@ p{
 
 .colorBlock3{
 	background-color: rgba(21,21,21,0.61);
+	width: 58%;
+	margin: 0 auto;
+	box-shadow: 7px 5px 10px black;
 }
 
 .textBlock3{
-	width: 60%;
+	width: 90%;
 	margin: 0 auto;
 	color: #131313;
 	text-align: justify;
