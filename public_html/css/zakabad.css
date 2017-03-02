@@ -148,6 +148,15 @@ p{
 	box-shadow: 7px 5px 10px black;
 }
 
+@media screen and (max-width: 768px) {
+	.colorBlock2 {
+		background-color: #989b9f;
+		width: 95%;
+		margin: 0 auto;
+		box-shadow: 7px 5px 10px black;
+	}
+}
+
 .textBlock2{
 	width: 90%;
 	margin: 0 auto;
@@ -161,6 +170,15 @@ p{
 	width: 58%;
 	margin: 0 auto;
 	box-shadow: 7px 5px 10px black;
+}
+
+@media screen and (max-width: 768px) {
+	.colorBlock3 {
+		background-color: rgba(21,21,21,0.61);
+		width: 95%;
+		margin: 0 auto;
+		box-shadow: 7px 5px 10px black;
+	}
 }
 
 .textBlock3{
@@ -177,9 +195,22 @@ p{
 	margin: 0 auto 70px;
 }
 
+@media screen and (max-width: 768px){
+	.form-container{
+		width: 95%;
+		margin: 0 auto;
+	}
+}
+
 /*Buttons for contact me styles*/
 .btns{
 	float: left;
+}
+
+@media screen and (max-width: 768px){
+	.btns{
+		margin: 7px;
+	}
 }
 
 .btn-success{
