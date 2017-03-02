@@ -3,10 +3,9 @@
 		<head>
 			<meta charset="UTF-8">
 <!--TODO:
-			Moblie Responsive & fix footer for mobile/
+			Moblie Responsive/
 			Multi-Browser response/
-			About me/
-			Change stripe to blocks?/-->
+			About me/-->
 
 			<!--Bootstrap nav bar-->
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -38,6 +37,11 @@
 			<link rel="icon" type="image/png" href="documentation/images/zFavi.png" sizes="32x32">
 			<link rel="icon" type="image/png" href="documentation/images/zFavi.png" sizes="16x16">
 			<link rel="mask-icon" href="documentation/images/zFavi.png">
+
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+			<link rel='stylesheet' media='all' href='normal.css' />
+			<link rel='stylesheet' media='print' href='print.css' />
+			<link rel='stylesheet' media='screen and (min-width: 701px)' href='medium.css' />
 
 			<title>Zak Abad</title>
 		</head>
@@ -166,6 +170,6 @@
 			</div>
 
 <!--Footer starts here-->
-			<footer class="navbar" id="bottomBoy"></footer>
+			<footer class="navbar" id="bottomBoy"><h6>&copy;Zak Abad</h6></footer>
 		</body>
 	</html>
