@@ -39,9 +39,6 @@
 			<link rel="mask-icon" href="documentation/images/zFavi.png">
 
 			<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-			<link rel='stylesheet' media='all' href='normal.css' />
-			<link rel='stylesheet' media='print' href='print.css' />
-			<link rel='stylesheet' media='screen and (min-width: 701px)' href='medium.css' />
 
 			<title>Zak Abad</title>
 		</head>

@@ -61,53 +61,26 @@ img {
 	font-size: 2em;
 }
 
-/*Media quiers for mobile responsiveness*/
-/* For desktop: */
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
+/* Navbar for mobile */
 
-@media only screen and (max-width: 768px) {
-	/* For mobile phones: */
-	[class*="col-"] {
-		width: 100%;
-	}
+.navbar-collapse.collapse {
+	display: block!important;
 }
 
-/* ----------- iPhone 5 and 5S ----------- */
-
-/* Portrait and Landscape */
-@media only screen
-and (min-device-width: 320px)
-and (max-device-width: 568px)
-and (-webkit-min-device-pixel-ratio: 2) {
-
+.navbar-nav>li, .navbar-nav {
+	float: left !important;
 }
 
-/* Portrait */
-@media only screen
-and (min-device-width: 320px)
-and (max-device-width: 568px)
-and (-webkit-min-device-pixel-ratio: 2)
-and (orientation: portrait) {
+.navbar-nav.navbar-right:last-child {
+	margin-right: 0px !important;
 }
 
-/* Landscape */
-@media only screen
-and (min-device-width: 320px)
-and (max-device-width: 568px)
-and (-webkit-min-device-pixel-ratio: 2)
-and (orientation: landscape) {
+.navbar-right {
+	float: right!important;
+}
 
+button.navbar-toggle.collapsed {
+	display: none;
 }
 
 #block1, #block2 {
@@ -123,7 +96,7 @@ and (orientation: landscape) {
 
 /*No Response for hover on name for nav bar*/
 .navbar-brand:hover{
-	color: #9d9d9d!important;
+	color: #9d9d9d !important;
 }
 
 /*Font for Subject headings*/
@@ -149,6 +122,15 @@ p{
 	width: 58%;
 	margin: 0 auto;
 	box-shadow: 7px 5px 10px black;
+}
+
+@media screen and (max-width: 768px) {
+	.colorBlock1 {
+		background-color: rgba(114,114,114,0.97);
+		width: 95%;
+		margin: 0 auto;
+		box-shadow: 7px 5px 10px black;
+	}
 }
 
 .textBlock1{
