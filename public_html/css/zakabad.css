@@ -82,25 +82,30 @@ img {
 /*Font for Subject headings*/
 .margin{
 	font-family: 'Cinzel', serif;
+	font-weight: bold;
 }
 
 #contact-heading{
 	font-family: 'Cinzel', serif;
+	font-weight: bold;
 }
 
 /*Font style for paragraphs*/
 p{
 	font-family: 'Rokkitt', serif;
-	font-size: large;
+	font-size: 1.5em;
 }
 
 /*Color blocks with text inside about me details*/
 .colorBlock1{
 	background-color: rgba(114,114,114,0.97);
+	width: 58%;
+	margin: 0 auto;
+	box-shadow: 7px 5px 10px black;
 }
 
 .textBlock1{
-	width: 60%;
+	width: 90%;
 	margin: 0 auto;
 	color: rgba(212,212,212,0.97);
 	text-align: justify;

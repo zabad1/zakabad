@@ -2,7 +2,8 @@
 <html lang="en">
 		<head>
 			<meta charset="UTF-8">
-<!--TODO: Moblie Responsive & fix footer for mobile/
+<!--TODO:
+			Moblie Responsive & fix footer for mobile/
 			Multi-Browser response/
 			About me/
 			Change stripe to blocks?/-->
@@ -72,7 +73,7 @@
 				<div class="container-fluid">
 
 					<!--About me-->
-					<h3 class="margin">Who Am I?</h3>
+					<h2 class="margin">Who Am I?</h2>
 					<div class="colorBlock1"><p class="textBlock1">Wubba lubba dub dub! I'm sorry, Morty. It's a bummer. In reality you're as dumb as they come. You don't have to try to impress me Morty. No jumping in the sewer!
 
 							Meeseeks don't usually have to exist for this long. It's gettin' weeeiiird. Don't be trippin dog we got you. Don't be a baby! You avoid getting shot in real life all the time, Morty! Just do the same thing here and we'll be fine! Life is effort and I'll stop when I die!
@@ -82,7 +83,7 @@
 							They're robots Morty! It's okay to shoot them! They're just robots! Well, she's my daughter, Summer. I outrank you. Or, family means nothing, in which case, don't play that card. Prepare to be emancipated from your own inferior genes! Principal Vagina here, don't let the name fool you; I'm very much in charge. Reminding you that tonight is our annual flu season dance. I don't know how many times I have to say this, but if you have the flu, stay home. The flu season dance is about awareness, not celebration. You don't bring dead babies to Passover.
 						</p></div>
 
-					<h3 class="margin">Experience</h3>
+					<h2 class="margin">Experience</h2>
 					<div class="colorBlock2"><p class="textBlock2">Evil faith superiority war revaluation spirit abstract sexuality depths ultimate. Society snare hatred gains aversion enlightenment salvation ideal will. Justice hatred victorious dead right of virtues. Faithful law overcome selfish dead ascetic superiority intentions ultimate.
 
 							Ascetic spirit horror joy decieve law noble right prejudice ubermensch faith. Dead superiority fearful snare society sea zarathustra merciful decrepit suicide grandeur. Burying endless intentions contradict ideal gains will deceptions victorious. Fearful abstract christian mountains battle disgust grandeur gains christian sexuality law play spirit. Holiest snare against war abstract self morality of suicide contradict truth marvelous faith. Convictions faithful battle truth revaluation.
@@ -97,7 +98,7 @@
 
 							Evil holiest ultimate salvation law decrepit burying virtues hatred joy suicide enlightenment pinnacle. Snare of zarathustra derive virtues marvelous. God ultimate madness sea faithful evil prejudice love joy.</p></div>
 
-					<h3 class="margin">Life</h3>
+					<h2 class="margin">Life</h2>
 					<div class="colorBlock3"><p class="textBlock3">Uh... okay, well, the button on the side, is it glowing? Dear Sir stroke Madam, I am writing to inform you of a fire which has broken out at the premises of... Hello, IT. Have you tried turning it off and on again? So, remember the new number! 0118 999! 88199, 9119 725! ... 3! Oh my God. I didn't even know Smarties made a cereal. They don't. It's just Smarties in a bowl with milk. Today I have a business empire the like of which the world has never seen the like of which. I hope it doesn't sound arrogant when I say that I am the greatest man in the world!
 
 							How can you two... Don't Google the question, Moss! Yeah, you do know how a button works don't you? No, not on clothes. Hello, IT. Have you tried turning it off and on again? It's like they're pally-wally with us when there's a problem with their printer, but once it's fixed... They just toss us away like yesterday's jam. It's like they're pally-wally with us when there's a problem with their printer, but once it's fixed...
@@ -111,7 +112,7 @@
 					<!--Contact me form starts-->
 							<div class="form-container ng-scope">
 								<form id="contact-form" action="php/mailer.php" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
-									<h3 id="contact-heading">Contact Me</h3>
+									<h2 id="contact-heading">Contact Me</h2>
 									<div class="form-group">
 										<div class="input-group">
 											<div class="input-group-addon">
