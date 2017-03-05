@@ -158,7 +158,7 @@ p{
 
 @media screen and (max-width: 768px) {
 	.colorBlock2 {
-		background-color: #989b9f;
+		background-color: #b6b6b6;
 		width: 95%;
 		margin: 0 auto;
 		box-shadow: 7px 5px 10px black;
@@ -203,6 +203,8 @@ p{
 
 .text-typewriter{
 	text-align: justify;
+	display: list-item;
+	list-style-type: square;
 }
 
 .title-photo{
@@ -217,8 +219,17 @@ p{
 	 font-family: 'Cutive Mono', monospace;
 	 font-size: medium;
 	 font-weight: bold;
+	 padding-left: inherit;
  }
 
+@media screen and (max-width: 768px){
+	#font-style{
+		font-family: 'Cutive Mono', monospace;
+		font-size: small;
+		font-weight: bold;
+	}
+
+ }
 /*Form contact me size*/
 .form-container{
 	width: 60%;
