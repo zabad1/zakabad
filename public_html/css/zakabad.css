@@ -150,7 +150,7 @@ p{
 }
 
 .colorBlock2{
-	background-color: #989b9f;
+	background-color: #b6b6b6;
 	width: 58%;
 	margin: 0 auto;
 	box-shadow: 7px 5px 10px black;
@@ -196,6 +196,28 @@ p{
 	text-align: justify;
 	padding: 20px;
 }
+
+.title-sprout{
+	font-family: 'Comfortaa', cursive;
+}
+
+.text-typewriter{
+	text-align: justify;
+}
+
+.title-photo{
+	font-family: 'La Belle Aurore', cursive;
+}
+
+.text-alayna{
+	text-align: justify;
+}
+
+ #font-style{
+	 font-family: 'Cutive Mono', monospace;
+	 font-size: medium;
+	 font-weight: bold;
+ }
 
 /*Form contact me size*/
 .form-container{

@@ -2,7 +2,7 @@
 <html lang="en">
 		<head>
 			<meta charset="UTF-8">
-<!--TODO:About me/-->
+<!--TODO:About me projects and favicon-->
 
 			<!--Bootstrap nav bar-->
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -28,6 +28,9 @@
 			<!--Google Fonts-->
 			<link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
 			<link href="https://fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=La+Belle+Aurore" rel="stylesheet">
 
 			<!--Favicon image icon-->
 			<link rel="apple-touch-icon" sizes="180x180" href="documentation/images/zFavi.png">
@@ -107,6 +110,21 @@
 
 							0115... no... 0118... no... 0118 999 ... 3. Hello? Is this the emergency services? Then which country am I speaking to? Hello? Hello? From today, dialing 999 won't get you the Emergency Services, and that's not the only thing that's changing! You can come down here any time and I'll be waiting for you! [slams down phone] That told her! Yeah, you need to turn it on... uh, the button turns it on. 0115... no... 0118... no... 0118 999 ... 3. Hello? Is this the emergency services? Then which country am I speaking to? Hello? Hello? So, remember the new number! 0118 999! 88199, 9119 725! ... 3!</p></div>
 
+					<div class="container">
+						<h2>PROJECTS</h2>
+						<div class="row">
+							<div class="col-md-6">
+								<h4 class="title-sprout">Sprout-Swap</h4>
+								<p class="text-typewriter" id="font-style"> • Sprout-Swap is a website for communities to trade, give, or sell their own vegetables that they grow personally at their home. The website gives them an opportunity to meet new people that have the same hobby in gardening, so they can trade vegetables that they aren’t growing with another person in their local city.</p>
+								<p class="text-typewriter" id="font-style">• Built with Phpstrom: programing languages used angular, Javastrip, Jquery, bootstrap, CSS, and mySQL. It’s supported on mobile and desktop devices.</p>
+							</div>
+							<div class="col-md-6">
+								<h4 class="title-photo">Alayna Marie Photography</h4>
+								<p class="text-typewriter" id="font-style"> • Alayna is based in Albuquerque, NM. Using natural light, we put our hearts and souls into each portrait session, family session, wedding and event.  We believe in "Photography Justice". This is a self made movement to provide access to professional quality images to EVERYONE, regardless of income.</p>
+								<p class="text-typewriter" id="font-style">• Built with php, Javascript, and CSS. It’s supported on mobile and desktop devices.</p>
+							</div>
+						</div>
+					</div>
 					<!--Contact me form starts-->
 							<div class="form-container ng-scope">
 								<form id="contact-form" action="php/mailer.php" method="post" novalidate="novalidate" class="ng-pristine ng-valid">
@@ -165,6 +183,6 @@
 
 <!--Footer starts here-->
 			<footer class="navbar" id="bottomBoy"><h6
-				>&copy;Zak Abad</h6></footer>
+				>2017&copy;Zak Abad</h6></footer>
 		</body>
 	</html>
