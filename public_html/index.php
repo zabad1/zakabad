@@ -2,7 +2,7 @@
 <html lang="en">
 		<head>
 			<meta charset="UTF-8">
-<!--TODO:About me projects and favicon-->
+<!--TODO:About me-->
 
 			<!--Bootstrap nav bar-->
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -31,6 +31,7 @@
 			<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
 			<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
 			<link href="https://fonts.googleapis.com/css?family=La+Belle+Aurore" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=Palanquin+Dark" rel="stylesheet">
 
 			<!--Favicon image icon-->
 			<link rel="apple-touch-icon" sizes="180x180" href="documentation/images/aceZ0.png">
@@ -75,14 +76,10 @@
 
 					<!--About me-->
 					<h2 class="margin">Who Am I?</h2>
-					<div class="colorBlock1"><p class="textBlock1">Wubba lubba dub dub! I'm sorry, Morty. It's a bummer. In reality you're as dumb as they come. You don't have to try to impress me Morty. No jumping in the sewer!
+					<div class="colorBlock1"><p class="textBlock1">Hello and thank you for coming to my site! I've been in Albuquerque for most of my life, but have traveled some of the world and wish to see more of it. I do consider ABQ my home and where my heart lives. I met my wife here and had our daughter in ABQ.</p>
+						<p class="textBlock1">When growing up with film, comics, and video games, I found that the template is the same for all three of these mediums and that's what attracts me to them as an art. But first and foremost I consider my self a film connoisseur but a student that is still mastering the craft of cinema. I do find my self very open minded and exploring the world of art. I always found enjoyment with working on computers and creating projects. So I always had the curiosity of making web sites.</p>
 
-							Meeseeks don't usually have to exist for this long. It's gettin' weeeiiird. Don't be trippin dog we got you. Don't be a baby! You avoid getting shot in real life all the time, Morty! Just do the same thing here and we'll be fine! Life is effort and I'll stop when I die!
-
-							And now, human music. boop beep boop... boop beep boop... Oh good job Morty! You killed my best customer but you saved a mind reading fart! No jumping in the sewer! Those guys are inside you building a piece of shit Ethan! They're inside you building a monument to compromise! Fuck them, fuck those people, fuck this whole thing Ethan.
-
-							They're robots Morty! It's okay to shoot them! They're just robots! Well, she's my daughter, Summer. I outrank you. Or, family means nothing, in which case, don't play that card. Prepare to be emancipated from your own inferior genes! Principal Vagina here, don't let the name fool you; I'm very much in charge. Reminding you that tonight is our annual flu season dance. I don't know how many times I have to say this, but if you have the flu, stay home. The flu season dance is about awareness, not celebration. You don't bring dead babies to Passover.
-						</p></div>
+						<p class="textBlock1">I enjoy frontend design web development the most. But I am expanding to learn backend web development as well. It's hard for me as a person to just know apart of something and not knowing all aspects of the medium.</p></div>
 
 					<h2 class="margin">Experience</h2>
 					<div class="colorBlock2"><p class="textBlock2">Evil faith superiority war revaluation spirit abstract sexuality depths ultimate. Society snare hatred gains aversion enlightenment salvation ideal will. Justice hatred victorious dead right of virtues. Faithful law overcome selfish dead ascetic superiority intentions ultimate.
