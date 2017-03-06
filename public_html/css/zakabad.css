@@ -147,6 +147,7 @@ p{
 	color: rgba(212,212,212,0.97);
 	text-align: justify;
 	padding: 20px;
+	text-shadow: 1px 1px 1px black;
 }
 
 .colorBlock2{
@@ -171,6 +172,7 @@ p{
 	color: #424242;
 	text-align:justify;
 	padding: 20px;
+	text-shadow: 1px 1px 1px #ffffff;
 }
 
 .colorBlock3{
@@ -195,8 +197,11 @@ p{
 	color: #131313;
 	text-align: justify;
 	padding: 20px;
+	text-shadow: 1px 1px 1px #9e9e9e;
+
 }
 
+/*Projects info starts here*/
 .title-sprout{
 	font-family: 'Comfortaa', cursive;
 }
