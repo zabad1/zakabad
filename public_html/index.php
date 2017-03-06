@@ -33,10 +33,10 @@
 			<link href="https://fonts.googleapis.com/css?family=La+Belle+Aurore" rel="stylesheet">
 
 			<!--Favicon image icon-->
-			<link rel="apple-touch-icon" sizes="180x180" href="documentation/images/aceZcursive.png">
-			<link rel="icon" type="image/png" href="documentation/images/aceZcursive.png" sizes="32x32">
-			<link rel="icon" type="image/png" href="documentation/images/aceZcursive.png" sizes="16x16">
-			<link rel="mask-icon" href="documentation/images/aceZcursive.png">
+			<link rel="apple-touch-icon" sizes="180x180" href="documentation/images/aceZ0.png">
+			<link rel="icon" type="image/png" href="documentation/images/aceZ0.png" sizes="32x32">
+			<link rel="icon" type="image/png" href="documentation/images/aceZ0.png" sizes="16x16">
+			<link rel="mask-icon" href="documentation/images/aceZ0.png">
 
 			<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
