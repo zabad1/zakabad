@@ -96,13 +96,13 @@
 						<div class="row">
 							<div class="col-md-6">
 								<h4 class="title-sprout">Sprout-Swap</h4>
-								<p class="text-typewriter" id="font-style">Sprout-Swap is a website for communities to trade, give, or sell their own vegetables that they grow personally at their home. The website gives them an opportunity to meet new people that have the same hobby in gardening, so they can trade vegetables that they aren’t growing with another person in their local city.</p>
-									<p class="text-typewriter" id="font-style">Built with php, Angular, Javastrip, Jquery, bootstrap, CSS, and mySQL. It’s supported on mobile and desktop devices.</p>
+								<h5 class="text-typewriter" id="font-style">Sprout-Swap is a website for communities to trade, give, or sell their own vegetables that they grow personally at their home. The website gives them an opportunity to meet new people that have the same hobby in gardening, so they can trade vegetables that they aren’t growing with another person in their local city.</h5>
+									<h5 class="text-typewriter" id="font-style">Built with php, Angular, Javastrip, Jquery, bootstrap, CSS, and mySQL. It’s supported on mobile and desktop devices.</h5>
 							</div>
 							<div class="col-md-6">
 								<h4 class="title-photo">Alayna Marie Photography</h4>
-								<p class="text-typewriter" id="font-style">Alayna is based in Albuquerque, NM. Using natural light, we put our hearts and souls into each portrait session, family session, wedding and event.  We believe in "Photography Justice". This is a self made movement to provide access to professional quality images to EVERYONE, regardless of income.</p>
-								<p class="text-typewriter" id="font-style">This site will be built with php, Javascript, Jquery, and CSS. It will be supported on mobile and desktop devices.</p>
+								<h5 class="text-typewriter" id="font-style">Alayna is based in Albuquerque, NM. Using natural light, we put our hearts and souls into each portrait session, family session, wedding and event.  We believe in "Photography Justice". This is a self made movement to provide access to professional quality images to EVERYONE, regardless of income.</h5>
+								<h5 class="text-typewriter" id="font-style">This site will be built with php, Javascript, Jquery, and CSS. It will be supported on mobile and desktop devices.</h5>
 							</div>
 						</div>
 					</div>
