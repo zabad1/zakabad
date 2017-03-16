@@ -1,5 +1,5 @@
 # zakabad
-# Milestone 1 feedback
+## Milestone 1 feedback
 
 Your directory structure is perfect, and your HTML is done very well. The only problem with HTML that I can see is that you're missing a couple of things in your head. Look at the documentation in the future and add the needed things (such as utf-8).
 
@@ -14,7 +14,7 @@ Use Case: Written very well. No issues there, although I do have more suggestion
 
 Otherwise, your Use Case does well in explaining everything you mentioned above. Great job with this.
 
-## Overall, great job. Some little issues here and there but nothing major. Watch the grammar, and keep up the good work for the next milestone. You've passed in tier 3.
+#### Overall, great job. Some little issues here and there but nothing major. Watch the grammar, and keep up the good work for the next milestone. You've passed in tier 3.
 
 ## Milestone 2a Feedback
 Your directory structure is perfect, but your HTML has one noticeable issue. Your meta charset tag needs to be within the head. Yours is above it. Make sure to fix this.
@@ -29,8 +29,11 @@ Your mobile layout may not work. I would try to stretch the content across the f
 
 I like your social media icons at the bottom. Make sure these fit with the design and don't look like they're just floating there. For the Social Media icons, have a look Font Awesome. Very easy to use, simple and straightforward. http://fontawesome.io/
 
-
-
 Overall, you did a good job of replicating the site you showed me earlier. Try to make it a little more entertaining. Include some modals, or cool design changes so it's atleast a little different. 
 
-### You've passed Milestone 2a in Tier III. Good job.
+#### You've passed Milestone 2a in Tier III. Good job.
+
+## Milestone 3 / Final Feedback
+Beautiful job on your PWP. Your layout looks great on both desktop and mobile - you've done a great job using the Bootstrap grid system to your advantage here. You've also done a nice job keeping your layout and design choices simple yet effective. This is a great example of how a simple color palette combined with a clean layout and a good typeface can have strong visual impact. Your form appears to function well on my end - so check your email to see if you have received my test message.
+
+Congrats on a PWP well done. Your project passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Nice work! 
